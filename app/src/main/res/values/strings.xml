@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Acitivity Lifecycle</string>
+    <string name="goto_second_screen">Goto second screen</string>
+</resources>
